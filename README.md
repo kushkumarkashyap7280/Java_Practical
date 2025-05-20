@@ -146,56 +146,6 @@ javac -d . practical9/PinkBackgroundFrame.java
 java practical9.PinkBackgroundFrame
 ```
 
-### Practical 10: Color Buttons Demo
-**Location**: `practical10/ColorButtonsDemo.java`
-
-**Description**:
-A Swing application with two buttons named "Red" and "Blue" that change the background color of the panel when clicked.
-
-**How to Run**:
-```
-javac -d . practical10/ColorButtonsDemo.java
-java practical10.ColorButtonsDemo
-```
-
-### Practical 11: Key Event Handling
-**Location**: `practical11/KeyEventDemo.java`
-
-**Description**:
-A Swing application that responds to KEY_TYPED events and updates a status window with the message "Typed character is: X".
-Uses adapter class for other key events.
-
-**How to Run**:
-```
-javac -d . practical11/KeyEventDemo.java
-java practical11.KeyEventDemo
-```
-
-### Practical 12: Information Display Buttons
-**Location**: `practical12/InfoButtonsDemo.java`
-
-**Description**:
-A Swing application with two buttons labeled 'A' and 'B':
-- Button A displays personal information (name, course, roll number, college)
-- Button B displays CGPA information
-
-**How to Run**:
-```
-javac -d . practical12/InfoButtonsDemo.java
-java practical12.InfoButtonsDemo
-```
-
-### Practical 13: Scrolling Banner
-**Location**: `practical13/ScrollingBannerDemo.java`
-
-**Description**:
-A Swing application that creates a banner and scrolls a message from left to right across the window using a separate thread.
-
-**How to Run**:
-```
-javac -d . practical13/ScrollingBannerDemo.java
-java practical13.ScrollingBannerDemo
-```
 
 ### Practical 14: Comprehensive Swing Demo
 **Location**: `practical14/ComprehensiveSwingDemo.java`
